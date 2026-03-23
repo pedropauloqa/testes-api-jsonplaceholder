@@ -16,7 +16,7 @@ O objetivo foi validar o comportamento dos principais endpoints de posts.
 - ✔️ Criar post  
 - ✔️ Deletar post  
 - ❌ Buscar post inexistente (teste negativo)
-- ❌ Buscar post Inválido (teste negativo)  
+- ❌ Buscar post com Id Inválido (teste negativo)  
 
 ---
 
